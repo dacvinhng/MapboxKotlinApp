@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapboxKotlinApp</string>
+    <string name="access_token">pk.eyJ1IjoiZGFjdmluaG5nIiwiYSI6ImNrMWFzeW53MjBiNHgzZG9iazljNWFmZmYifQ.pIwhOJxX3duYlG3P1wtuyQ</string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
